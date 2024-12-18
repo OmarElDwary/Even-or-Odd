@@ -1,6 +1,6 @@
-##Categorize a list of numbers into even or odd
+## Categorize a list of numbers into even or odd
 
-#Requirments:
+# Requirments:
 -Ensure Dart SDK is installed.
 
 #How does it work:
@@ -8,5 +8,5 @@
 2- In case the number is divisible by 2 then it will print number is even.
 3- In case it is not divisble by 2 then it will print the number is odd.
 
-#Additional:
+# Additional:
 Another way to do it using for-each loop with terrnary opperator to check if the number is divisble by 2 or not
